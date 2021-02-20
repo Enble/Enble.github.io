@@ -153,4 +153,3 @@ main_nav: true
     <td>Division 1</td><td>Division 2</td><td>Division 3</td>
   </tr>
 </table>
-</div>
